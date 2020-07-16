@@ -1,0 +1,16 @@
+{
+    "name": "Punit",
+    "age": 21,
+    "marks": [
+        50,
+        48,
+        43,
+        47
+    ],
+    "object": {
+        "colour": [
+            "grey",
+            "black"
+        ]
+    }
+}
